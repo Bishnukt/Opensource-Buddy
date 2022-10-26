@@ -91,6 +91,13 @@ Thank You Very Much for Contributing.  -->
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Bishnukt>
+            <img src=https://avatars.githubusercontent.com/u/87633659?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bishnu Thakur/>
+            <br />
+            <sub style="font-size:14px"><b>Bishnu Thakur</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Pranav-Rustagi>
             <img src=https://avatars.githubusercontent.com/u/57594891?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Pranav Rustagi/>
             <br />
@@ -104,27 +111,13 @@ Thank You Very Much for Contributing.  -->
             <sub style="font-size:14px"><b>Soumyajit Brahma </b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/codernoob1>
             <img src=https://avatars.githubusercontent.com/u/79470721?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=codernoob1/>
             <br />
             <sub style="font-size:14px"><b>codernoob1</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Bishnukt>
-            <img src=https://avatars.githubusercontent.com/u/87633659?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bishnu Thakur/>
-            <br />
-            <sub style="font-size:14px"><b>Bishnu Thakur</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Shobhnik13>
-            <img src=https://avatars.githubusercontent.com/u/97435342?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Shobhnik/>
-            <br />
-            <sub style="font-size:14px"><b>Shobhnik</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
